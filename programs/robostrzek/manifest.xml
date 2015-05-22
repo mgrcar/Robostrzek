@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="robostrzek">
+ <names>
+  <name lang="en_US">robostrzek</name>
+ </names>
+ <supportedLanguages>
+  <language>en_US</language>
+ </supportedLanguages>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="init">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="act1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="happy">
+   <nature>interactive</nature>
+   <tags>
+    <tag lang="en_US">happy</tag>
+    <tag lang="en_US">joyful</tag>
+    <tag lang="en_US">winner</tag>
+   </tags>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="sandbox_1">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="sandbox_2">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="stand">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="sandbox_3">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>
