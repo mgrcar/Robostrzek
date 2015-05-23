@@ -9,6 +9,7 @@
         <BehaviorDescription name="behavior" src="sandbox_2" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="stand" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sandbox_3" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="sandbox_4" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -16,6 +17,8 @@
         <File name="JuhuhuZivSem" src="wav/JuhuhuZivSem.txt" />
         <File name="OhNeNisem" src="wav/OhNeNisem.ogg" />
         <File name="ZivjoPlocevinko" src="wav/ZivjoPlocevinko.ogg" />
+        <File name="JuhuhuZivSem.txt" src="wav/JuhuhuZivSem.txt.bak" />
+        <File name="OhNeNisem" src="wav/OhNeNisem.txt" />
     </Resources>
     <Topics />
     <IgnoredPaths />
