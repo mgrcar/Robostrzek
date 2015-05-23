@@ -47,5 +47,15 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
+  <behaviorContent path="surprise">
+   <nature>interactive</nature>
+   <tags>
+    <tag lang="en_US">fear</tag>
+    <tag lang="en_US">frightened</tag>
+    <tag lang="en_US">scared</tag>
+    <tag lang="en_US">surprised</tag>
+   </tags>
+   <permissions/>
+  </behaviorContent>
  </contents>
 </package>

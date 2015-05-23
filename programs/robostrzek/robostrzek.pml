@@ -10,6 +10,7 @@
         <BehaviorDescription name="behavior" src="stand" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sandbox_3" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sandbox_4" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="surprise" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
@@ -21,6 +22,13 @@
         <File name="OhNeNisem" src="wav/OhNeNisem.txt" />
         <File name="JojKajSemStoril" src="wav/JojKajSemStoril.ogg" />
         <File name="ZivjoPlocevinko" src="wav/ZivjoPlocevinko.txt" />
+        <File name="JojKdoMe" src="wav/JojKdoMe.ogg" />
+        <File name="behavior.xar" src="surprise/behavior.xar.bak" />
+        <File name="AhNeSaj" src="wav/AhNeSaj.ogg" />
+        <File name="MojsterJakaKajPaDelas" src="wav/MojsterJakaKajPaDelas.ogg" />
+        <File name="PomeAmpakSaj" src="wav/PomeAmpakSaj.ogg" />
+        <File name="Res" src="wav/Res.ogg" />
+        <File name="AmpakJazNisem" src="wav/AmpakJazNisem.ogg" />
     </Resources>
     <Topics />
     <IgnoredPaths />
