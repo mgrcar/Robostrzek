@@ -1,0 +1,10 @@
+9.010 Stand/Gestures/Me_2
+10.810 robostrzek/stand
+17.640 Stand/Gestures/WhatSThis_2
+19.470 robostrzek/stand
+24.860 Stand/Gestures/No_6
+27.020 robostrzek/stand
+33.380 Stand/Waiting/ShowMuscles_2
+47.870 Stand/Gestures/No_9
+53.750 Stand/Gestures/YouKnowWhat_1
+66.510 robostrzek/stand

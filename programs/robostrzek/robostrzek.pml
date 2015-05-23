@@ -19,6 +19,8 @@
         <File name="ZivjoPlocevinko" src="wav/ZivjoPlocevinko.ogg" />
         <File name="JuhuhuZivSem.txt" src="wav/JuhuhuZivSem.txt.bak" />
         <File name="OhNeNisem" src="wav/OhNeNisem.txt" />
+        <File name="JojKajSemStoril" src="wav/JojKajSemStoril.ogg" />
+        <File name="ZivjoPlocevinko" src="wav/ZivjoPlocevinko.txt" />
     </Resources>
     <Topics />
     <IgnoredPaths />

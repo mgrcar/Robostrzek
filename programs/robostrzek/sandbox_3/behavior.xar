@@ -1515,12 +1515,41 @@ class MyClass(GeneratedClass):
                                 </BehaviorLayer>
                             </Timeline>
                         </Box>
+                        <Box name="Python Script" id="21" localization="8" tooltip="This box contains a basic python script and can be used to create any python script box you would like.&#x0A;&#x0A;To edit its script, double-click on it." x="178" y="282">
+                            <bitmap>media/images/box/box-python-script.png</bitmap>
+                            <script language="4">
+                                <content>
+                                    <![CDATA[class MyClass(GeneratedClass):
+    def __init__(self):
+        GeneratedClass.__init__(self)
+
+    def onLoad(self):
+        #put initialization code here
+        pass
+
+    def onUnload(self):
+        #put clean-up code here
+        pass
+
+    def onInput_onStart(self):
+        self.logger.info(str(time.time()))
+        self.onStopped() #activate the output of the box
+
+    def onInput_onStop(self):
+        self.onUnload() #it is recommended to reuse the clean-up as the box is stopped
+        self.onStopped() #activate the output of the box]]>
+</content>
+                            </script>
+                            <Input name="onLoad" type="1" type_size="1" nature="0" inner="1" tooltip="Signal sent when diagram is loaded." id="1" />
+                            <Input name="onStart" type="1" type_size="1" nature="2" inner="0" tooltip="Box behavior starts when a signal is received on this input." id="2" />
+                            <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Box behavior stops when a signal is received on this input." id="3" />
+                            <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when box behavior is finished." id="4" />
+                        </Box>
                         <Link inputowner="15" indexofinput="2" outputowner="1" indexofoutput="4" />
                         <Link inputowner="4" indexofinput="2" outputowner="2" indexofoutput="4" />
                         <Link inputowner="2" indexofinput="2" outputowner="3" indexofoutput="4" />
                         <Link inputowner="3" indexofinput="2" outputowner="0" indexofoutput="2" />
                         <Link inputowner="0" indexofinput="4" outputowner="4" indexofoutput="4" />
-                        <Link inputowner="14" indexofinput="2" outputowner="3" indexofoutput="4" />
                         <Link inputowner="1" indexofinput="2" outputowner="14" indexofoutput="4" />
                         <Link inputowner="5" indexofinput="2" outputowner="15" indexofoutput="4" />
                         <Link inputowner="6" indexofinput="2" outputowner="5" indexofoutput="4" />
@@ -1537,6 +1566,8 @@ class MyClass(GeneratedClass):
                         <Link inputowner="19" indexofinput="2" outputowner="18" indexofoutput="4" />
                         <Link inputowner="20" indexofinput="2" outputowner="19" indexofoutput="4" />
                         <Link inputowner="4" indexofinput="3" outputowner="20" indexofoutput="4" />
+                        <Link inputowner="21" indexofinput="2" outputowner="3" indexofoutput="4" />
+                        <Link inputowner="14" indexofinput="2" outputowner="21" indexofoutput="4" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>

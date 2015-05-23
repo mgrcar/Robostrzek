@@ -1,2 +1,3 @@
 0.000 robostrzek/happy
-6.600 animations/Stand/Emotions/Positive/Proud_2
+4.290 Stand/Gestures/Me_2
+7.070 animations/Stand/Emotions/Positive/Proud_2
