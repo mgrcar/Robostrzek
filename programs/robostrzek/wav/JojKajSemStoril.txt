@@ -1,0 +1,9 @@
+0.000 Stand/Gestures/Desperate_3
+3.490 Stand/Gestures/Thinking_2
+8.120 Stand/Gestures/ShowSky_8
+10.740 robostrzek/stand
+12.090 Stand/Gestures/YouKnowWhat_5
+14.780 robostrzek/stand
+15.350 Stand/Gestures/No_6
+17.500 Stand/Gestures/WhatSThis_2
+20.340 robostrzek/stand

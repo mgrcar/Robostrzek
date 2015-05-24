@@ -1,0 +1,5 @@
+0.000 robostrzek/surprise
+3.320 robostrzek/stand
+6.660 Stand/Gestures/No_8
+9.370 Stand/Emotions/Negative/Disappointed_1
+15.510 robostrzek/stand

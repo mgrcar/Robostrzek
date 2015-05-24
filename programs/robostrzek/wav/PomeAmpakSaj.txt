@@ -1,0 +1,3 @@
+0.000 Stand/Gestures/Me_8
+2.520 Stand/Gestures/IDontKnow_6
+5.370 Stand/Emotions/Negative/Disappointed_1

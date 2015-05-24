@@ -29,6 +29,13 @@
         <File name="PomeAmpakSaj" src="wav/PomeAmpakSaj.ogg" />
         <File name="Res" src="wav/Res.ogg" />
         <File name="AmpakJazNisem" src="wav/AmpakJazNisem.ogg" />
+        <File name="JojKajSemStoril" src="wav/JojKajSemStoril.txt" />
+        <File name="JojKdoMe" src="wav/JojKdoMe.txt" />
+        <File name="AhNeSaj" src="wav/AhNeSaj.txt" />
+        <File name="MojsterJakaKajPaDelas" src="wav/MojsterJakaKajPaDelas.txt" />
+        <File name="PomeAmpakSaj" src="wav/PomeAmpakSaj.txt" />
+        <File name="Res" src="wav/Res.txt" />
+        <File name="AmpakJazNisem" src="wav/AmpakJazNisem.txt" />
     </Resources>
     <Topics />
     <IgnoredPaths />
