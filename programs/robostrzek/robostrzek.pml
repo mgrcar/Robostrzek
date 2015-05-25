@@ -11,6 +11,10 @@
         <BehaviorDescription name="behavior" src="sandbox_3" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="sandbox_4" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="surprise" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act2" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_right" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="look_left" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act3" xar="behavior.xar" />
     </BehaviorDescriptions>
     <Dialogs />
     <Resources>
