@@ -15,7 +15,7 @@
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="keyframe1" index="1">
                     <Diagram>
-                        <Box name="Goto Posture" id="1" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="414" y="144">
+                        <Box name="Goto Posture" id="1" localization="8" tooltip="The robot goes from its current postition to the asked posture." x="428" y="143">
                             <bitmap>media/images/box/box-diagram.png</bitmap>
                             <script language="4">
                                 <content>
@@ -63,7 +63,7 @@
                                 <Choice value="Stand" />
                                 <Choice value="StandZero" />
                             </Parameter>
-                            <Parameter name="Speed (%)" inherits_from_parent="0" content_type="1" value="60" default_value="80" min="0" max="100" tooltip="Speed to go to the posture." id="7" />
+                            <Parameter name="Speed (%)" inherits_from_parent="0" content_type="1" value="40" default_value="80" min="0" max="100" tooltip="Speed to go to the posture." id="7" />
                             <Parameter name="Maximum of tries" inherits_from_parent="0" content_type="1" value="3" default_value="3" min="1" max="10" tooltip="The maximum number of fails of go to posture before stimulating the failure output." id="8" />
                             <Resource name="All motors" type="Lock" timeout="0" />
                             <Resource name="Stiffness" type="Lock" timeout="0" />
@@ -114,8 +114,8 @@
                             <Parameter name="Speed (%)" inherits_from_parent="0" content_type="1" value="60" default_value="100" min="0" max="100" tooltip="Speed to go to the posture." id="7" />
                             <Resource name="All motors" type="Lock" timeout="0" />
                         </Box>
-                        <Link inputowner="2" indexofinput="2" outputowner="0" indexofoutput="2" />
-                        <Link inputowner="0" indexofinput="4" outputowner="2" indexofoutput="4" />
+                        <Link inputowner="1" indexofinput="2" outputowner="0" indexofoutput="2" />
+                        <Link inputowner="0" indexofinput="4" outputowner="1" indexofoutput="4" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>

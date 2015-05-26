@@ -108,8 +108,8 @@
                             <Parameter name="Duration (s)" inherits_from_parent="0" content_type="2" value="0" default_value="1" min="0" max="60" tooltip="How much time to go to the max/min intensity in seconds." id="6" />
                         </Box>
                         <Link inputowner="0" indexofinput="4" outputowner="2" indexofoutput="3" />
-                        <Link inputowner="2" indexofinput="2" outputowner="1" indexofoutput="4" />
                         <Link inputowner="1" indexofinput="2" outputowner="0" indexofoutput="2" />
+                        <Link inputowner="2" indexofinput="2" outputowner="1" indexofoutput="4" />
                     </Diagram>
                 </BehaviorKeyframe>
             </BehaviorLayer>

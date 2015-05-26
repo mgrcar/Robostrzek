@@ -13,7 +13,7 @@
 # DELAY
 18.590 Stand/Gestures/WhatSThis_2
 20.410 robostrzek/stand
-20.920 robostrzek/look_right
+21.300 robostrzek/look_right
 # DELAY
 24.830 Stand/Gestures/No_6
 26.990 robostrzek/stand

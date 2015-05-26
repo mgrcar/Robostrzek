@@ -32,7 +32,7 @@
         <Input name="onStop" type="1" type_size="1" nature="3" inner="0" tooltip="Box behavior stops when a signal is received on this Input." id="3" />
         <Output name="onStopped" type="1" type_size="1" nature="1" inner="0" tooltip="Signal sent when Box behavior is finished." id="4" />
         <Parameter name="FPS (%)" inherits_from_parent="1" content_type="1" value="100" default_value="100" min="20" max="200" tooltip="" id="5" />
-        <Timeline enable="1" fps="25" start_frame="1" end_frame="-1" size="82">
+        <Timeline enable="1" fps="15" start_frame="1" end_frame="-1" size="82">
             <BehaviorLayer name="behavior_layer1">
                 <BehaviorKeyframe name="FaceLeds1" index="1">
                     <Diagram scale="100">

@@ -27,7 +27,6 @@
         <File name="JojKajSemStoril" src="wav/JojKajSemStoril.ogg" />
         <File name="ZivjoPlocevinko" src="wav/ZivjoPlocevinko.txt" />
         <File name="JojKdoMe" src="wav/JojKdoMe.ogg" />
-        <File name="behavior.xar" src="surprise/behavior.xar.bak" />
         <File name="AhNeSaj" src="wav/AhNeSaj.ogg" />
         <File name="MojsterJakaKajPaDelas" src="wav/MojsterJakaKajPaDelas.ogg" />
         <File name="PomeAmpakSaj" src="wav/PomeAmpakSaj.ogg" />

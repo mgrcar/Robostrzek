@@ -1,11 +1,13 @@
 0.000 Stand/Emotions/Negative/Sad_2
 # DELAY
-8.060 Stand/Emotions/Positive/Proud_2
+#8.060 Stand/Emotions/Positive/Proud_2
+7.000 Stand/Gestures/WhatSThis_2
+11.000 robostrzek/stand
 13.810 Stand/Emotions/Negative/Disappointed_1
 # DELAY
-19.580 Stand/Gestures/Give_2
+19.000 Stand/Gestures/Give_2
 # DELAY
-25.290 Stand/Emotions/Neutral/Determined_1
+24.000 Stand/Emotions/Neutral/Determined_1
 28.950 Stand/Gestures/Give_2
 # DELAY
-32.330 Stand/Emotions/Negative/Disappointed_1
+33.000 Stand/Emotions/Negative/Disappointed_1
