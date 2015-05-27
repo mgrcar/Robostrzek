@@ -14,7 +14,7 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="act1">
+  <behaviorContent path="act1_ogledalo">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -27,23 +27,7 @@
    </tags>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="sandbox_1">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="sandbox_2">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
   <behaviorContent path="stand">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="sandbox_3">
-   <nature>interactive</nature>
-   <permissions/>
-  </behaviorContent>
-  <behaviorContent path="sandbox_4">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -57,7 +41,7 @@
    </tags>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="act2">
+  <behaviorContent path="act2_macek_in_lisica">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
@@ -69,7 +53,15 @@
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>
-  <behaviorContent path="act3">
+  <behaviorContent path="act4_dialog_mojster_jaka">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="act3/dance">
+   <nature>interactive</nature>
+   <permissions/>
+  </behaviorContent>
+  <behaviorContent path="act5_goodbye">
    <nature>interactive</nature>
    <permissions/>
   </behaviorContent>

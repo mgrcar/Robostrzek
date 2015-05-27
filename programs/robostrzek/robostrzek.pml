@@ -3,20 +3,20 @@
     <Manifest src="manifest.xml" />
     <BehaviorDescriptions>
         <BehaviorDescription name="behavior" src="init" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="act1" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act1_ogledalo" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="happy" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="sandbox_1" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="sandbox_2" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="stand" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="sandbox_3" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="sandbox_4" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="surprise" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="act2" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act2_macek_in_lisica" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="look_right" xar="behavior.xar" />
         <BehaviorDescription name="behavior" src="look_left" xar="behavior.xar" />
-        <BehaviorDescription name="behavior" src="act3" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act4_dialog_mojster_jaka" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act3/dance" xar="behavior.xar" />
+        <BehaviorDescription name="behavior" src="act5_goodbye" xar="behavior.xar" />
     </BehaviorDescriptions>
-    <Dialogs />
+    <Dialogs>
+        <Dialog name="Gangnam style" src="act3/Gangnam style/Gangnam style.dlg" />
+    </Dialogs>
     <Resources>
         <File name="JuhuhuZivSem" src="wav/JuhuhuZivSem.ogg" />
         <File name="JuhuhuZivSem" src="wav/JuhuhuZivSem.txt" />
@@ -39,7 +39,10 @@
         <File name="PomeAmpakSaj" src="wav/PomeAmpakSaj.txt" />
         <File name="Res" src="wav/Res.txt" />
         <File name="AmpakJazNisem" src="wav/AmpakJazNisem.txt" />
+        <File name="Gangnam Style [Short] CloTi (MMD)" src="act3/Gangnam Style [Short] CloTi (MMD).mp3" />
     </Resources>
-    <Topics />
+    <Topics>
+        <Topic name="Gangnam style_enu" src="act3/Gangnam style/Gangnam style_enu.top" topicName="" language="" />
+    </Topics>
     <IgnoredPaths />
 </Package>
