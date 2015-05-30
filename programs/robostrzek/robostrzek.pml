@@ -40,6 +40,7 @@
         <File name="Res" src="wav/Res.txt" />
         <File name="AmpakJazNisem" src="wav/AmpakJazNisem.txt" />
         <File name="Gangnam Style [Short] CloTi (MMD)" src="act3/Gangnam Style [Short] CloTi (MMD).mp3" />
+        <File name="RekelSiDa" src="wav/RekelSiDa.ogg" />
     </Resources>
     <Topics>
         <Topic name="Gangnam style_enu" src="act3/Gangnam style/Gangnam style_enu.top" topicName="" language="" />
